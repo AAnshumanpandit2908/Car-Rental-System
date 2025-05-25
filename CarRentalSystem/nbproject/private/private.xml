@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/model/User.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/model/Car.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/model/Rental.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/dao/RentalDAO.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/view/LoginFrame.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/view/AdminDashboard.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/view/UserDashboard.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/dao/DBConnection.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/main/Main.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/view/RegistrationFrame.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/dao/UserDAO.java</file>
+            <file>file:/C:/Users/MM/OneDrive/Documents/NetBeansProjects/CarRentalSystem/src/com/carrental/dao/CarDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
