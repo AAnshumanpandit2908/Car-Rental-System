@@ -135,23 +135,3 @@ Rent a Car: Select dates → Confirm booking.
 
 View Rentals: Check past/active rentals.
 
-CarRentalSystem/
-├── src/
-│   ├── model/
-│   │   ├── User.java
-│   │   ├── Car.java
-│   │   ├── Rental.java
-│   ├── dao/
-│   │   ├── UserDAO.java
-│   │   ├── CarDAO.java
-│   │   ├── RentalDAO.java
-│   │   ├── DBConnection.java
-│   ├── view/
-│   │   ├── LoginFrame.java
-│   │   ├── AdminDashboard.java
-│   │   ├── UserDashboard.java
-│   │   ├── CarManagementFrame.java
-│   │   ├── UserManagementFrame.java
-│   │   ├── RentalManagementFrame.java
-│   │   ├── AvailableCarsFrame.java
-│   ├── Main.java
