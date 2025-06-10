@@ -134,4 +134,45 @@ Browse Cars: Filter available cars.
 Rent a Car: Select dates → Confirm booking.
 
 View Rentals: Check past/active rentals.
+🎯 Core Features
+User registration and login (Admin & Customer roles)
 
+View available cars with filters
+
+Car booking and cancellation
+
+Rental history and billing system
+
+Admin dashboard to manage cars and users
+
+🔐 Error Handling & Robustness
+Handles invalid inputs (e.g., wrong date, unavailable cars)
+
+Graceful failure messages for system errors
+
+Try-catch blocks for file and database operations
+
+🔗 Integration of Components
+Smooth integration between modules like user authentication, car management, and booking interface
+
+⚙️ Event Handling & Processing
+Efficient event listeners for UI interactions
+
+Real-time updates for car availability status
+
+🛡️ Data Validation
+Client-side and server-side checks for form inputs
+
+Ensures valid dates, vehicle IDs, and payment entries
+
+🧠 Code Quality & Innovation
+Clean, modular Java code with layered architecture (GUI, Logic, DB)
+
+Added features like car search filter, rental duration calculator
+
+📄 Project Documentation
+Setup instructions
+
+Feature descriptions
+
+Usage guide and screenshots
